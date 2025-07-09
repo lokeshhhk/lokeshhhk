@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Lokesh.I am Passionate Cloud and DevOps Enthusiast</p>
+<p align="left">I am Lokesh,🚀 Passionate Cloud and DevOps Enthusiast | AWS | Docker | Kubernetes | Terraform | CI/CD</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Technologies I Use:</h2>
+<h2 align="left">Technologies:</h2>
 
 ###
 
